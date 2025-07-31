@@ -1,4 +1,4 @@
-# -AI-Maze-Solving-and-Algorithm-Performance-Analysis
+# AI-Maze-Solving-and-Algorithm-Performance-Analysis
 
 Prerequisites:
 •⁠  ⁠Python 3.7+
